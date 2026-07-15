@@ -9,13 +9,12 @@ export default function Hero() {
       <div className="flex flex-col items-center gap-8 text-center sm:flex-row sm:text-left">
         <div className="relative h-32 w-32 shrink-0 overflow-hidden rounded-full border-2 border-amber-500/60 bg-neutral-900 sm:h-40 sm:w-40">
           <Image
-            src="/profile.svg"
+            src="/profile.jpg"
             alt="Vidal Djona Fopa"
             fill
             sizes="160px"
             className="object-cover"
             priority
-            unoptimized
           />
         </div>
         <div>
