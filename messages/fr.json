@@ -21,7 +21,7 @@
   },
   "about": {
     "title": "À propos de moi",
-    "text": "Je suis né le 10 mai 1998 à Kribi, au Cameroun. J'ai obtenu mon baccalauréat avec spécialisation en mécanique automobile en 2017, puis ma licence en technologie, spécialité mécatronique automobile, en 2020 dans mon pays d'origine. Depuis octobre 2025, j'étudie la mécatronique à la Hochschule München, où je travaille également comme recrue au sein de l'équipe électrique de MunichMotorSport sur la communication entre capteurs et microcontrôleurs.",
+    "text": "Je suis né le 10 mai 1998 à Kribi, au Cameroun. J'ai obtenu mon baccalauréat avec spécialisation en mécanique automobile en 2017, puis ma licence en technologie, spécialité mécatronique automobile, en 2020 dans mon pays d'origine. Depuis octobre 2025, j'étudie la mécatronique à la Hochschule München ; d'octobre 2025 à février 2026, j'ai également travaillé comme recrue au sein de l'équipe électrique de MunichMotorSport sur la communication entre capteurs et microcontrôleurs.",
     "birthPlace": "Kribi, Cameroun",
     "birthDate": "10 mai 1998",
     "location": "Hohenlinden, Allemagne"
@@ -37,7 +37,7 @@
         "context": "Chaîne de magasins de vélos avec trois points de vente à Munich (Schwabing, Neuhausen, Haidhausen)."
       },
       {
-        "period": "Octobre 2025 – Aujourd'hui",
+        "period": "Octobre 2025 – Février 2026",
         "role": "Recrue de l'équipe électrique",
         "company": "MunichMotorSport",
         "description": "Travail sur la communication entre les capteurs et le microcontrôleur STM32, ainsi que sur le réseau CAN de la voiture de course.",

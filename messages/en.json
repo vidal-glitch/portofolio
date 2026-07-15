@@ -21,7 +21,7 @@
   },
   "about": {
     "title": "About me",
-    "text": "I was born on May 10, 1998 in Kribi, Cameroon. In 2017 I completed my Abitur with a focus on automotive mechanics, and in 2020 I earned my Bachelor's in Technology, specializing in automotive mechatronics, in my home country. Since October 2025 I've been studying Mechatronics at Hochschule München, where I also work as a recruit on the MunichMotorSport Electrical Team on sensor-to-microcontroller communication.",
+    "text": "I was born on May 10, 1998 in Kribi, Cameroon. In 2017 I completed my Abitur with a focus on automotive mechanics, and in 2020 I earned my Bachelor's in Technology, specializing in automotive mechatronics, in my home country. Since October 2025 I've been studying Mechatronics at Hochschule München; from October 2025 to February 2026 I also worked as a recruit on the MunichMotorSport Electrical Team on sensor-to-microcontroller communication.",
     "birthPlace": "Kribi, Cameroon",
     "birthDate": "May 10, 1998",
     "location": "Hohenlinden, Germany"
@@ -37,7 +37,7 @@
         "context": "Bicycle shop chain with three locations in Munich (Schwabing, Neuhausen, Haidhausen)."
       },
       {
-        "period": "October 2025 – Present",
+        "period": "October 2025 – February 2026",
         "role": "Electrical Team Recruit",
         "company": "MunichMotorSport",
         "description": "Working on sensor-to-STM32-microcontroller communication and the CAN network of the race car.",

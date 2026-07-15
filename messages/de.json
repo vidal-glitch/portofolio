@@ -21,7 +21,7 @@
   },
   "about": {
     "title": "Über mich",
-    "text": "Ich wurde am 10. Mai 1998 in Kribi, Kamerun geboren. 2017 habe ich mein Abitur mit Schwerpunkt Automechanik abgelegt und 2020 meinen Bachelor in Technologie mit der Fachrichtung Automobilmechatronik in meinem Heimatland abgeschlossen. Seit Oktober 2025 studiere ich Mechatronik an der Hochschule München und arbeite dort als Rekrut im Elektroteam von MunichMotorSport an der Kommunikation zwischen Sensoren und Mikrocontrollern.",
+    "text": "Ich wurde am 10. Mai 1998 in Kribi, Kamerun geboren. 2017 habe ich mein Abitur mit Schwerpunkt Automechanik abgelegt und 2020 meinen Bachelor in Technologie mit der Fachrichtung Automobilmechatronik in meinem Heimatland abgeschlossen. Seit Oktober 2025 studiere ich Mechatronik an der Hochschule München; von Oktober 2025 bis Februar 2026 war ich zudem als Rekrut im Elektroteam von MunichMotorSport tätig und arbeitete dort an der Kommunikation zwischen Sensoren und Mikrocontrollern.",
     "birthPlace": "Kribi, Kamerun",
     "birthDate": "10. Mai 1998",
     "location": "Hohenlinden, Deutschland"
@@ -37,7 +37,7 @@
         "context": "Fahrradladenkette mit drei Standorten in München (Schwabing, Neuhausen, Haidhausen)."
       },
       {
-        "period": "Oktober 2025 – Heute",
+        "period": "Oktober 2025 – Februar 2026",
         "role": "Rekrut des Elektroteams",
         "company": "MunichMotorSport",
         "description": "Arbeit an der Kommunikation zwischen Sensoren und Mikrocontroller STM32 sowie am CAN-Netzwerk des Rennwagens.",
