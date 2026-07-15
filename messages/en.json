@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "title": "Vidal Djona Fopa – Mechatronics Student & Mechanic",
+    "description": "Portfolio of Vidal Djona Fopa: Mechatronics student at Hochschule München, automotive/commercial vehicle mechanic and founder of a GPS tracking startup."
+  },
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "references": "References",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Vidal Djona Fopa",
+    "role": "Mechatronics Student & Mechanic",
+    "tagline": "From automotive mechanics in Cameroon to mechatronics in Munich — precise, reliable, and genuinely invested in people and machines.",
+    "ctaContact": "Get in touch",
+    "ctaCv": "Download CV"
+  },
+  "about": {
+    "title": "About me",
+    "text": "I was born on May 10, 1998 in Kribi, Cameroon. In 2017 I completed my Abitur with a focus on automotive mechanics, and in 2020 I earned my Bachelor's in Technology, specializing in automotive mechatronics, in my home country. Since October 2025 I've been studying Mechatronics at Hochschule München, where I also work as a recruit on the MunichMotorSport Electrical Team on sensor-to-microcontroller communication.",
+    "birthPlace": "Kribi, Cameroon",
+    "birthDate": "May 10, 1998",
+    "location": "Hohenlinden, Germany"
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "period": "May 2026 – Present",
+        "role": "Bicycle Mechanic",
+        "company": "DoctorBike GmbH & Co KG",
+        "description": "Advising customers and carrying out bicycle repairs.",
+        "context": "Bicycle shop chain with three locations in Munich (Schwabing, Neuhausen, Haidhausen)."
+      },
+      {
+        "period": "October 2025 – Present",
+        "role": "Electrical Team Recruit",
+        "company": "MunichMotorSport",
+        "description": "Working on sensor-to-STM32-microcontroller communication and the CAN network of the race car.",
+        "context": "Official Formula Student team of Hochschule München, racing since 2005."
+      },
+      {
+        "period": "October 2025 – Present",
+        "role": "Mechatronics Student (Semester 2)",
+        "company": "Hochschule München",
+        "description": "Bachelor's degree in Mechatronics with a focus on electronics, control systems and mechanical engineering."
+      },
+      {
+        "period": "July 2025 – April 2026",
+        "role": "Assembly Line Worker",
+        "company": "Gobao Electronic Technology GmbH",
+        "description": "Fully assembling e-bikes, installing software, and checking for mechanical defects.",
+        "context": "Manufacturer of e-bike drive systems and batteries, based in Maisach near Munich."
+      },
+      {
+        "period": "February 2025 – June 2025",
+        "role": "Language Student (Level C1)",
+        "company": "Mariaspring Sprachenzentrum",
+        "description": "Intensive German course to reach language proficiency level C1."
+      },
+      {
+        "period": "November 2021 – Present",
+        "role": "Founder",
+        "company": "GPS Tracking (Startup)",
+        "description": "On-site planning and deployment, customer service and acquisition of new contracts in GPS tracking systems."
+      },
+      {
+        "period": "January 2023 – February 2024",
+        "role": "Mechanic",
+        "company": "G2MT, Douala",
+        "description": "Diagnosis, inspection, repair and replacement of components on trucks and construction machinery.",
+        "context": "Cameroonian-French company with over 10 years of experience maintaining heavy-duty and construction machinery."
+      },
+      {
+        "period": "Aug. 2019 – Sep. 2019 and Oct. 2020 – Jan. 2021",
+        "role": "Mechanic",
+        "company": "Hysacam, Kribi",
+        "description": "Pneumatic and lighting work on garbage trucks, plus bleeding and inspecting hydraulic circuits.",
+        "context": "Cameroon's largest waste management company, founded in 1969, operating in 17 cities."
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "period": "October 2025 – Present",
+        "degree": "Bachelor's in Mechatronics (Semester 2)",
+        "institution": "Hochschule München"
+      },
+      {
+        "period": "February 2025 – June 2025",
+        "degree": "German course, Level C1",
+        "institution": "Mariaspring Sprachenzentrum"
+      },
+      {
+        "period": "2020 (Online)",
+        "degree": "Caterpillar Certificate",
+        "institution": "Caterpillar"
+      },
+      {
+        "period": "2019 – 2020",
+        "degree": "Licence in Mechatronics",
+        "institution": "Institut Universitaire des Technologies Fotso Victor"
+      },
+      {
+        "period": "2017 – 2019",
+        "degree": "Technology studies",
+        "institution": "Institut Universitaire de la Côte"
+      },
+      {
+        "period": "2017",
+        "degree": "Abitur, focus on automotive mechanics",
+        "institution": "Collège de la Salle"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "soft": {
+      "title": "Soft Skills",
+      "items": [
+        "Flexibility and teamwork",
+        "Caring instinct and customer service",
+        "Adaptability",
+        "Athleticism",
+        "Rigor, method and precision"
+      ]
+    },
+    "technical": {
+      "title": "Technical Skills",
+      "items": [
+        "Automotive and commercial vehicle mechanics",
+        "Hydraulic and pneumatic systems",
+        "E-bike assembly and software installation",
+        "STM32 microcontrollers",
+        "CAN network technology",
+        "Diagnostics and troubleshooting"
+      ]
+    }
+  },
+  "languages": {
+    "title": "Languages",
+    "items": [
+      { "name": "French", "level": "Native" },
+      { "name": "German", "level": "C1" },
+      { "name": "English", "level": "A2" }
+    ]
+  },
+  "references": {
+    "title": "References",
+    "note": "Contact details available on request.",
+    "items": [
+      { "name": "MBA Fokam Herve", "role": "General Manager", "company": "G2MT" },
+      { "name": "Gilles Bertrand Mbiamy Nana", "role": "Agency Manager", "company": "Hysacam" },
+      { "name": "Samson Luo", "role": "Production Manager", "company": "Gobao Electronic Technology GmbH" },
+      { "name": "Lucie Sprenger", "role": "HR", "company": "MunichMotorSport" },
+      { "name": "Katja Fabricius", "role": "HR", "company": "DoctorBike GmbH & Co KG" }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "text": "Interested in working together, or just have a question? I'd love to hear from you.",
+    "emailLabel": "Email",
+    "locationLabel": "Location",
+    "location": "Hohenlinden, Germany"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

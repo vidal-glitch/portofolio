@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "title": "Vidal Djona Fopa – Mechatronik-Student & Mechaniker",
+    "description": "Portfolio von Vidal Djona Fopa: Mechatronik-Student an der Hochschule München, Kfz-/Nutzfahrzeugmechaniker und Gründer eines GPS-Tracking-Startups."
+  },
+  "nav": {
+    "about": "Über mich",
+    "experience": "Erfahrung",
+    "education": "Ausbildung",
+    "skills": "Fähigkeiten",
+    "references": "Referenzen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "greeting": "Hallo, ich bin",
+    "name": "Vidal Djona Fopa",
+    "role": "Mechatronik-Student & Mechaniker",
+    "tagline": "Von der Automobilmechanik in Kamerun zur Mechatronik in München – präzise, zuverlässig und mit echtem Kümmerinstinkt für Kunden und Maschinen.",
+    "ctaContact": "Kontakt aufnehmen",
+    "ctaCv": "Lebenslauf herunterladen"
+  },
+  "about": {
+    "title": "Über mich",
+    "text": "Ich wurde am 10. Mai 1998 in Kribi, Kamerun geboren. 2017 habe ich mein Abitur mit Schwerpunkt Automechanik abgelegt und 2020 meinen Bachelor in Technologie mit der Fachrichtung Automobilmechatronik in meinem Heimatland abgeschlossen. Seit Oktober 2025 studiere ich Mechatronik an der Hochschule München und arbeite dort als Rekrut im Elektroteam von MunichMotorSport an der Kommunikation zwischen Sensoren und Mikrocontrollern.",
+    "birthPlace": "Kribi, Kamerun",
+    "birthDate": "10. Mai 1998",
+    "location": "Hohenlinden, Deutschland"
+  },
+  "experience": {
+    "title": "Praxiserfahrung",
+    "items": [
+      {
+        "period": "Mai 2026 – Heute",
+        "role": "Fahrradmonteur",
+        "company": "DoctorBike GmbH & Co KG",
+        "description": "Beratung und Durchführung von Fahrradreparaturen für Kunden.",
+        "context": "Fahrradladenkette mit drei Standorten in München (Schwabing, Neuhausen, Haidhausen)."
+      },
+      {
+        "period": "Oktober 2025 – Heute",
+        "role": "Rekrut des Elektroteams",
+        "company": "MunichMotorSport",
+        "description": "Arbeit an der Kommunikation zwischen Sensoren und Mikrocontroller STM32 sowie am CAN-Netzwerk des Rennwagens.",
+        "context": "Offizielles Formula-Student-Team der Hochschule München, seit 2005 im Rennsport aktiv."
+      },
+      {
+        "period": "Oktober 2025 – Heute",
+        "role": "Student im Studiengang Mechatronik (Semester 2)",
+        "company": "Hochschule München",
+        "description": "Bachelorstudium Mechatronik mit Fokus auf Elektronik, Steuerungstechnik und Maschinenbau."
+      },
+      {
+        "period": "Juli 2025 – April 2026",
+        "role": "Montagebandarbeiter",
+        "company": "Gobao Electronic Technology GmbH",
+        "description": "Vollständige Montage von E-Bikes, Installation der Software und Überprüfung mechanischer Mängel.",
+        "context": "Hersteller von E-Bike-Antriebssystemen und Akkus mit Sitz in Maisach bei München."
+      },
+      {
+        "period": "Februar 2025 – Juni 2025",
+        "role": "Sprachstudent (Niveau C1)",
+        "company": "Mariaspring Sprachenzentrum",
+        "description": "Intensiver Deutschkurs zur Erreichung des Sprachniveaus C1."
+      },
+      {
+        "period": "November 2021 – Heute",
+        "role": "Gründer",
+        "company": "GPS Tracking (Startup)",
+        "description": "Planung und Einsatz vor Ort, Kundenservice und Akquise neuer Verträge im Bereich GPS-Ortungssysteme."
+      },
+      {
+        "period": "Januar 2023 – Februar 2024",
+        "role": "Mechaniker",
+        "company": "G2MT, Douala",
+        "description": "Diagnose, Kontrolle, Reparatur und Austausch von Bauteilen an LKW und Baumaschinen.",
+        "context": "Kamerunisch-französisches Unternehmen mit über 10 Jahren Erfahrung in der Wartung von Schwerlast- und Baumaschinen."
+      },
+      {
+        "period": "Aug. 2019 – Sep. 2019 und Okt. 2020 – Jan. 2021",
+        "role": "Mechaniker",
+        "company": "Hysacam, Kribi",
+        "description": "Pneumatische und lichttechnische Eingriffe am Müllwagen sowie Entlüftung und Überprüfung der Hydraulikkreisläufe.",
+        "context": "Größtes Abfallentsorgungsunternehmen Kameruns, gegründet 1969, aktiv in 17 Städten."
+      }
+    ]
+  },
+  "education": {
+    "title": "Bildungsweg",
+    "items": [
+      {
+        "period": "Oktober 2025 – Heute",
+        "degree": "Bachelor Mechatronik (Semester 2)",
+        "institution": "Hochschule München"
+      },
+      {
+        "period": "Februar 2025 – Juni 2025",
+        "degree": "Deutschkurs, Niveau C1",
+        "institution": "Mariaspring Sprachenzentrum"
+      },
+      {
+        "period": "2020 (Online)",
+        "degree": "Zertifikat Caterpillar",
+        "institution": "Caterpillar"
+      },
+      {
+        "period": "2019 – 2020",
+        "degree": "Licence in Mekatronik",
+        "institution": "Institut Universitaire des Technologies Fotso Victor"
+      },
+      {
+        "period": "2017 – 2019",
+        "degree": "Studienbeginn Technologie",
+        "institution": "Institut Universitaire de la Côte"
+      },
+      {
+        "period": "2017",
+        "degree": "Abitur, Schwerpunkt Automechaniker",
+        "institution": "Collège de la Salle"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Fähigkeiten",
+    "soft": {
+      "title": "Soft Skills",
+      "items": [
+        "Flexibilität und Teamarbeit",
+        "Kümmerinstinkt und Kundenservice",
+        "Anpassungsfähigkeit",
+        "Sportlichkeit",
+        "Strenge, Methode und Präzision"
+      ]
+    },
+    "technical": {
+      "title": "Technische Fähigkeiten",
+      "items": [
+        "Kfz- und Nutzfahrzeugmechanik",
+        "Hydraulik- und Pneumatiksysteme",
+        "E-Bike-Montage und Software-Installation",
+        "Mikrocontroller STM32",
+        "CAN-Netzwerktechnik",
+        "Diagnose und Fehlerbehebung"
+      ]
+    }
+  },
+  "languages": {
+    "title": "Sprachen",
+    "items": [
+      { "name": "Französisch", "level": "Muttersprache" },
+      { "name": "Deutsch", "level": "C1" },
+      { "name": "Englisch", "level": "A2" }
+    ]
+  },
+  "references": {
+    "title": "Referenzen",
+    "note": "Kontaktdaten auf Anfrage.",
+    "items": [
+      { "name": "MBA Fokam Herve", "role": "Generaldirektor", "company": "G2MT" },
+      { "name": "Gilles Bertrand Mbiamy Nana", "role": "Agenturleiter", "company": "Hysacam" },
+      { "name": "Samson Luo", "role": "Produktionsleiter", "company": "Gobao Electronic Technology GmbH" },
+      { "name": "Lucie Sprenger", "role": "HR", "company": "MunichMotorSport" },
+      { "name": "Katja Fabricius", "role": "HR", "company": "DoctorBike GmbH & Co KG" }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "text": "Interesse an einer Zusammenarbeit oder einfach nur Fragen? Ich freue mich auf eine Nachricht.",
+    "emailLabel": "E-Mail",
+    "locationLabel": "Standort",
+    "location": "Hohenlinden, Deutschland"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "title": "Vidal Djona Fopa – Étudiant en mécatronique & mécanicien",
+    "description": "Portfolio de Vidal Djona Fopa : étudiant en mécatronique à la Hochschule München, mécanicien automobile/poids-lourds et fondateur d'une startup de géolocalisation GPS."
+  },
+  "nav": {
+    "about": "À propos",
+    "experience": "Expérience",
+    "education": "Formation",
+    "skills": "Compétences",
+    "references": "Références",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "name": "Vidal Djona Fopa",
+    "role": "Étudiant en mécatronique & mécanicien",
+    "tagline": "De la mécanique automobile au Cameroun à la mécatronique à Munich — précis, fiable, et animé d'un véritable esprit d'entraide envers les clients comme envers les machines.",
+    "ctaContact": "Me contacter",
+    "ctaCv": "Télécharger le CV"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "text": "Je suis né le 10 mai 1998 à Kribi, au Cameroun. J'ai obtenu mon baccalauréat avec spécialisation en mécanique automobile en 2017, puis ma licence en technologie, spécialité mécatronique automobile, en 2020 dans mon pays d'origine. Depuis octobre 2025, j'étudie la mécatronique à la Hochschule München, où je travaille également comme recrue au sein de l'équipe électrique de MunichMotorSport sur la communication entre capteurs et microcontrôleurs.",
+    "birthPlace": "Kribi, Cameroun",
+    "birthDate": "10 mai 1998",
+    "location": "Hohenlinden, Allemagne"
+  },
+  "experience": {
+    "title": "Expérience professionnelle",
+    "items": [
+      {
+        "period": "Mai 2026 – Aujourd'hui",
+        "role": "Mécanicien vélo",
+        "company": "DoctorBike GmbH & Co KG",
+        "description": "Conseil client et réalisation de réparations de vélos.",
+        "context": "Chaîne de magasins de vélos avec trois points de vente à Munich (Schwabing, Neuhausen, Haidhausen)."
+      },
+      {
+        "period": "Octobre 2025 – Aujourd'hui",
+        "role": "Recrue de l'équipe électrique",
+        "company": "MunichMotorSport",
+        "description": "Travail sur la communication entre les capteurs et le microcontrôleur STM32, ainsi que sur le réseau CAN de la voiture de course.",
+        "context": "Équipe officielle Formula Student de la Hochschule München, en course depuis 2005."
+      },
+      {
+        "period": "Octobre 2025 – Aujourd'hui",
+        "role": "Étudiant en mécatronique (semestre 2)",
+        "company": "Hochschule München",
+        "description": "Licence (Bachelor) en mécatronique axée sur l'électronique, l'automatisme et la mécanique."
+      },
+      {
+        "period": "Juillet 2025 – Avril 2026",
+        "role": "Ouvrier de chaîne de montage",
+        "company": "Gobao Electronic Technology GmbH",
+        "description": "Montage complet de vélos électriques, installation du logiciel et contrôle des défauts mécaniques.",
+        "context": "Fabricant de systèmes de propulsion et de batteries pour vélos électriques, basé à Maisach près de Munich."
+      },
+      {
+        "period": "Février 2025 – Juin 2025",
+        "role": "Étudiant en langue (niveau C1)",
+        "company": "Mariaspring Sprachenzentrum",
+        "description": "Cours d'allemand intensif pour atteindre le niveau C1."
+      },
+      {
+        "period": "Novembre 2021 – Aujourd'hui",
+        "role": "Fondateur",
+        "company": "GPS Tracking (Startup)",
+        "description": "Planification et intervention sur site, service client et acquisition de nouveaux contrats dans le domaine de la géolocalisation GPS."
+      },
+      {
+        "period": "Janvier 2023 – Février 2024",
+        "role": "Mécanicien",
+        "company": "G2MT, Douala",
+        "description": "Diagnostic, contrôle, réparation et remplacement de pièces sur poids lourds et engins de chantier.",
+        "context": "Entreprise camerouno-française avec plus de 10 ans d'expérience dans la maintenance d'engins lourds et de chantier."
+      },
+      {
+        "period": "Août 2019 – Sept. 2019 et Oct. 2020 – Jan. 2021",
+        "role": "Mécanicien",
+        "company": "Hysacam, Kribi",
+        "description": "Interventions pneumatiques et sur l'éclairage des camions-bennes, purge et contrôle des circuits hydrauliques.",
+        "context": "Première entreprise de gestion des déchets au Cameroun, fondée en 1969, active dans 17 villes."
+      }
+    ]
+  },
+  "education": {
+    "title": "Parcours scolaire",
+    "items": [
+      {
+        "period": "Octobre 2025 – Aujourd'hui",
+        "degree": "Licence en mécatronique (semestre 2)",
+        "institution": "Hochschule München"
+      },
+      {
+        "period": "Février 2025 – Juin 2025",
+        "degree": "Cours d'allemand, niveau C1",
+        "institution": "Mariaspring Sprachenzentrum"
+      },
+      {
+        "period": "2020 (en ligne)",
+        "degree": "Certificat Caterpillar",
+        "institution": "Caterpillar"
+      },
+      {
+        "period": "2019 – 2020",
+        "degree": "Licence en mécatronique",
+        "institution": "Institut Universitaire des Technologies Fotso Victor"
+      },
+      {
+        "period": "2017 – 2019",
+        "degree": "Études en technologie",
+        "institution": "Institut Universitaire de la Côte"
+      },
+      {
+        "period": "2017",
+        "degree": "Baccalauréat, spécialité mécanique automobile",
+        "institution": "Collège de la Salle"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Compétences",
+    "soft": {
+      "title": "Savoir-être",
+      "items": [
+        "Flexibilité et travail d'équipe",
+        "Esprit d'entraide et sens du service client",
+        "Capacité d'adaptation",
+        "Sportivité",
+        "Rigueur, méthode et précision"
+      ]
+    },
+    "technical": {
+      "title": "Compétences techniques",
+      "items": [
+        "Mécanique automobile et poids-lourds",
+        "Systèmes hydrauliques et pneumatiques",
+        "Montage de vélos électriques et installation logicielle",
+        "Microcontrôleurs STM32",
+        "Réseau CAN",
+        "Diagnostic et dépannage"
+      ]
+    }
+  },
+  "languages": {
+    "title": "Langues",
+    "items": [
+      { "name": "Français", "level": "Langue maternelle" },
+      { "name": "Allemand", "level": "C1" },
+      { "name": "Anglais", "level": "A2" }
+    ]
+  },
+  "references": {
+    "title": "Références",
+    "note": "Coordonnées disponibles sur demande.",
+    "items": [
+      { "name": "MBA Fokam Herve", "role": "Directeur général", "company": "G2MT" },
+      { "name": "Gilles Bertrand Mbiamy Nana", "role": "Chef d'agence", "company": "Hysacam" },
+      { "name": "Samson Luo", "role": "Directeur de production", "company": "Gobao Electronic Technology GmbH" },
+      { "name": "Lucie Sprenger", "role": "RH", "company": "MunichMotorSport" },
+      { "name": "Katja Fabricius", "role": "RH", "company": "DoctorBike GmbH & Co KG" }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "text": "Envie de collaborer ou simplement une question ? N'hésitez pas à me contacter.",
+    "emailLabel": "E-mail",
+    "locationLabel": "Localisation",
+    "location": "Hohenlinden, Allemagne"
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  }
+}
