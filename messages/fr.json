@@ -85,6 +85,7 @@
         "period": "2026 (en cours)",
         "degree": "Modélisation 3D avec Onshape – Certificat Onshape Associate (en préparation)",
         "institution": "Onshape",
+        "image": "/photos/onshape-setup.jpg",
         "video": "/certificates/onshape-demo.mp4"
       },
       {
@@ -154,13 +155,13 @@
   },
   "references": {
     "title": "Références",
-    "note": "Coordonnées disponibles sur demande.",
+    "note": "",
     "items": [
-      { "name": "MBA Fokam Herve", "role": "Directeur général", "company": "G2MT" },
-      { "name": "Gilles Bertrand Mbiamy Nana", "role": "Chef d'agence", "company": "Hysacam" },
-      { "name": "Samson Luo", "role": "Directeur de production", "company": "Gobao Electronic Technology GmbH" },
-      { "name": "Lucie Sprenger", "role": "RH", "company": "MunichMotorSport" },
-      { "name": "Katja Fabricius", "role": "RH", "company": "DoctorBike GmbH & Co KG" }
+      { "name": "MBA Fokam Herve", "role": "Directeur général", "company": "G2MT", "phone": "+237 672914956" },
+      { "name": "Gilles Bertrand Mbiamy Nana", "role": "Chef d'agence", "company": "Hysacam", "phone": "+237 651422294", "email": "spoticare0@gmail.com" },
+      { "name": "Samson Luo", "role": "Directeur de production", "company": "Gobao Electronic Technology GmbH", "email": "samson.luo@gobao-ebike.com" },
+      { "name": "Lucie Sprenger", "role": "RH", "company": "MunichMotorSport", "email": "lucie.sprenger@munichmotorsport.de" },
+      { "name": "Katja Fabricius", "role": "RH", "company": "DoctorBike GmbH & Co KG", "email": "info@doctorbike.de" }
     ]
   },
   "contact": {

@@ -5,11 +5,14 @@ type Item = {
   name: string;
   role: string;
   company: string;
+  phone?: string;
+  email?: string;
 };
 
 export default function References() {
   const t = useTranslations("references");
   const items = t.raw("items") as Item[];
+  const note = t("note");
 
   return (
     <Section id="references" title={t("title")}>
@@ -23,10 +26,26 @@ export default function References() {
             <p className="text-sm text-neutral-400">
               {item.role} · {item.company}
             </p>
+            <div className="mt-2 space-y-1 text-sm">
+              {item.phone && (
+                <p>
+                  <a href={`tel:${item.phone.replace(/\s/g, "")}`} className="text-amber-400 hover:underline">
+                    {item.phone}
+                  </a>
+                </p>
+              )}
+              {item.email && (
+                <p>
+                  <a href={`mailto:${item.email}`} className="text-amber-400 hover:underline">
+                    {item.email}
+                  </a>
+                </p>
+              )}
+            </div>
           </div>
         ))}
       </div>
-      <p className="mt-6 text-sm text-neutral-500">{t("note")}</p>
+      {note && <p className="mt-6 text-sm text-neutral-500">{note}</p>}
     </Section>
   );
 }

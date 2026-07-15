@@ -10,6 +10,11 @@ type Item = {
   video?: string;
 };
 
+const IMAGE_DIMENSIONS: Record<string, [number, number]> = {
+  "/certificates/caterpillar.png": [1188, 918],
+  "/photos/onshape-setup.jpg": [3310, 3072],
+};
+
 export default function Education() {
   const t = useTranslations("education");
   const items = t.raw("items") as Item[];
@@ -33,8 +38,8 @@ export default function Education() {
               <Image
                 src={item.image}
                 alt={item.degree}
-                width={1188}
-                height={918}
+                width={IMAGE_DIMENSIONS[item.image]?.[0] ?? 1200}
+                height={IMAGE_DIMENSIONS[item.image]?.[1] ?? 900}
                 className="mt-4 h-auto w-full max-w-xl rounded-lg border border-neutral-800"
               />
             )}
