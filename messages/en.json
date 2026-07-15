@@ -199,7 +199,8 @@
     "text": "Interested in working together, or just have a question? I'd love to hear from you.",
     "emailLabel": "Email",
     "locationLabel": "Location",
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "qrLabel": "Scan to open this page again"
   },
   "footer": {
     "rights": "All rights reserved."

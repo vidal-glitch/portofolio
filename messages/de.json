@@ -199,7 +199,8 @@
     "text": "Interesse an einer Zusammenarbeit oder einfach nur Fragen? Ich freue mich auf eine Nachricht.",
     "emailLabel": "E-Mail",
     "locationLabel": "Standort",
-    "location": "München, Deutschland"
+    "location": "München, Deutschland",
+    "qrLabel": "QR-Code scannen, um diese Seite erneut zu öffnen"
   },
   "footer": {
     "rights": "Alle Rechte vorbehalten."

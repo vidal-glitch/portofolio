@@ -1,4 +1,5 @@
 import { useTranslations } from "next-intl";
+import QrCode from "./QrCode";
 import Section from "./Section";
 
 const EMAIL = "djonafopavidal@gmail.com";
@@ -27,6 +28,9 @@ export default function Contact() {
           </p>
           <p className="mt-1 text-lg font-medium text-neutral-100">{t("location")}</p>
         </div>
+      </div>
+      <div className="mt-6 flex justify-center sm:justify-start">
+        <QrCode label={t("qrLabel")} />
       </div>
     </Section>
   );
