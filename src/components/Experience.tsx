@@ -1,5 +1,11 @@
 import { useTranslations } from "next-intl";
+import MediaThumb from "./MediaThumb";
 import Section from "./Section";
+
+type Media = {
+  type: "image" | "video";
+  src: string;
+};
 
 type Item = {
   period: string;
@@ -7,6 +13,7 @@ type Item = {
   company: string;
   description: string;
   context?: string;
+  media?: Media[];
 };
 
 export default function Experience() {
@@ -29,6 +36,13 @@ export default function Experience() {
             </p>
             {item.context && (
               <p className="mt-1 max-w-2xl text-xs italic text-neutral-600">{item.context}</p>
+            )}
+            {item.media && item.media.length > 0 && (
+              <div className="mt-3 flex flex-wrap gap-2">
+                {item.media.map((m, j) => (
+                  <MediaThumb key={j} type={m.type} src={m.src} alt={item.role} />
+                ))}
+              </div>
             )}
           </li>
         ))}

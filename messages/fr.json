@@ -48,7 +48,15 @@
         "role": "Ouvrier de chaîne de montage",
         "company": "Gobao Electronic Technology GmbH",
         "description": "Montage complet de vélos électriques, installation du logiciel et contrôle des défauts mécaniques.",
-        "context": "Fabricant de systèmes de propulsion et de batteries pour vélos électriques, basé à Maisach près de Munich."
+        "context": "Fabricant de systèmes de propulsion et de batteries pour vélos électriques, basé à Maisach près de Munich.",
+        "media": [
+          { "type": "image", "src": "/photos/gobao-1.jpg" },
+          { "type": "image", "src": "/photos/gobao-2.jpg" },
+          { "type": "image", "src": "/photos/gobao-3.jpg" },
+          { "type": "image", "src": "/photos/gobao-4.jpg" },
+          { "type": "video", "src": "/videos/gobao-1.mp4" },
+          { "type": "video", "src": "/videos/gobao-2.mp4" }
+        ]
       },
       {
         "period": "Février 2025 – Juin 2025",

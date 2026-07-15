@@ -48,7 +48,15 @@
         "role": "Montagebandarbeiter",
         "company": "Gobao Electronic Technology GmbH",
         "description": "Vollständige Montage von E-Bikes, Installation der Software und Überprüfung mechanischer Mängel.",
-        "context": "Hersteller von E-Bike-Antriebssystemen und Akkus mit Sitz in Maisach bei München."
+        "context": "Hersteller von E-Bike-Antriebssystemen und Akkus mit Sitz in Maisach bei München.",
+        "media": [
+          { "type": "image", "src": "/photos/gobao-1.jpg" },
+          { "type": "image", "src": "/photos/gobao-2.jpg" },
+          { "type": "image", "src": "/photos/gobao-3.jpg" },
+          { "type": "image", "src": "/photos/gobao-4.jpg" },
+          { "type": "video", "src": "/videos/gobao-1.mp4" },
+          { "type": "video", "src": "/videos/gobao-2.mp4" }
+        ]
       },
       {
         "period": "Februar 2025 – Juni 2025",
