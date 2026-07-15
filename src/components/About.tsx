@@ -1,4 +1,5 @@
 import { useTranslations } from "next-intl";
+import Languages from "./Languages";
 import Section from "./Section";
 
 export default function About() {
@@ -17,6 +18,9 @@ export default function About() {
           <dd className="text-neutral-300">{t("location")}</dd>
         </div>
       </dl>
+      <div className="mt-8">
+        <Languages />
+      </div>
     </Section>
   );
 }

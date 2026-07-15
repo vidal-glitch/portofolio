@@ -1,6 +1,5 @@
 import { useTranslations } from "next-intl";
 import Section from "./Section";
-import Languages from "./Languages";
 
 function Pill({ label }: { label: string }) {
   return (
@@ -38,9 +37,6 @@ export default function Skills() {
             ))}
           </div>
         </div>
-      </div>
-      <div className="mt-10">
-        <Languages />
       </div>
     </Section>
   );
