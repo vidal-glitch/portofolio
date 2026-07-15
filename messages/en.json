@@ -41,7 +41,17 @@
         "role": "Electrical Team Recruit",
         "company": "MunichMotorSport",
         "description": "Working on sensor-to-STM32-microcontroller communication and the CAN network of the race car.",
-        "context": "Official Formula Student team of Hochschule München, racing since 2005."
+        "context": "Official Formula Student team of Hochschule München, racing since 2005.",
+        "media": [
+          { "type": "image", "src": "/photos/mms-1.jpg" },
+          { "type": "image", "src": "/photos/mms-2.jpg" },
+          { "type": "image", "src": "/photos/mms-3.jpg" },
+          { "type": "image", "src": "/photos/mms-4.jpg" },
+          { "type": "image", "src": "/photos/mms-5.jpg" },
+          { "type": "image", "src": "/photos/mms-6.jpg" },
+          { "type": "image", "src": "/photos/mms-7.jpg" },
+          { "type": "image", "src": "/photos/mms-8.jpg" }
+        ]
       },
       {
         "period": "July 2025 – April 2026",

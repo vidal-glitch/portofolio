@@ -41,7 +41,17 @@
         "role": "Recrue de l'équipe électrique",
         "company": "MunichMotorSport",
         "description": "Travail sur la communication entre les capteurs et le microcontrôleur STM32, ainsi que sur le réseau CAN de la voiture de course.",
-        "context": "Équipe officielle Formula Student de la Hochschule München, en course depuis 2005."
+        "context": "Équipe officielle Formula Student de la Hochschule München, en course depuis 2005.",
+        "media": [
+          { "type": "image", "src": "/photos/mms-1.jpg" },
+          { "type": "image", "src": "/photos/mms-2.jpg" },
+          { "type": "image", "src": "/photos/mms-3.jpg" },
+          { "type": "image", "src": "/photos/mms-4.jpg" },
+          { "type": "image", "src": "/photos/mms-5.jpg" },
+          { "type": "image", "src": "/photos/mms-6.jpg" },
+          { "type": "image", "src": "/photos/mms-7.jpg" },
+          { "type": "image", "src": "/photos/mms-8.jpg" }
+        ]
       },
       {
         "period": "Juillet 2025 – Avril 2026",
