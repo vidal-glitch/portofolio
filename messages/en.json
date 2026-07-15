@@ -82,7 +82,15 @@
         "period": "November 2021 – Present",
         "role": "Founder",
         "company": "GPS Tracking (Startup)",
-        "description": "On-site planning and deployment, customer service and acquisition of new contracts in GPS tracking systems."
+        "description": "On-site planning and deployment, customer service and acquisition of new contracts in GPS tracking systems.",
+        "media": [
+          { "type": "image", "src": "/photos/gps-1.jpg" },
+          { "type": "image", "src": "/photos/gps-2.jpg" },
+          { "type": "video", "src": "/videos/gps-1.mp4" },
+          { "type": "video", "src": "/videos/gps-2.mp4" },
+          { "type": "video", "src": "/videos/gps-3.mp4" },
+          { "type": "video", "src": "/videos/gps-4.mp4" }
+        ]
       },
       {
         "period": "January 2023 – February 2024",
