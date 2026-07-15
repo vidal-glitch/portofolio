@@ -34,7 +34,11 @@
         "role": "Mécanicien vélo",
         "company": "DoctorBike GmbH & Co KG",
         "description": "Conseil client et réalisation de réparations de vélos.",
-        "context": "Chaîne de magasins de vélos avec trois points de vente à Munich (Schwabing, Neuhausen, Haidhausen)."
+        "context": "Chaîne de magasins de vélos avec trois points de vente à Munich (Schwabing, Neuhausen, Haidhausen).",
+        "media": [
+          { "type": "image", "src": "/photos/doctorbike-1.jpg" },
+          { "type": "image", "src": "/photos/doctorbike-2.jpg" }
+        ]
       },
       {
         "period": "Octobre 2025 – Février 2026",

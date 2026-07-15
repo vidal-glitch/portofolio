@@ -34,7 +34,11 @@
         "role": "Bicycle Mechanic",
         "company": "DoctorBike GmbH & Co KG",
         "description": "Advising customers and carrying out bicycle repairs.",
-        "context": "Bicycle shop chain with three locations in Munich (Schwabing, Neuhausen, Haidhausen)."
+        "context": "Bicycle shop chain with three locations in Munich (Schwabing, Neuhausen, Haidhausen).",
+        "media": [
+          { "type": "image", "src": "/photos/doctorbike-1.jpg" },
+          { "type": "image", "src": "/photos/doctorbike-2.jpg" }
+        ]
       },
       {
         "period": "October 2025 – February 2026",
