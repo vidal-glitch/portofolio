@@ -68,8 +68,8 @@
           { "type": "image", "src": "/photos/gobao-2.jpg" },
           { "type": "image", "src": "/photos/gobao-3.jpg" },
           { "type": "image", "src": "/photos/gobao-4.jpg" },
-          { "type": "video", "src": "/videos/gobao-1.mp4" },
-          { "type": "video", "src": "/videos/gobao-2.mp4" }
+          { "type": "video", "src": "/videos/gobao-1.mp4", "poster": "/videos/gobao-1-poster.jpg" },
+          { "type": "video", "src": "/videos/gobao-2.mp4", "poster": "/videos/gobao-2-poster.jpg" }
         ]
       },
       {
@@ -86,10 +86,10 @@
         "media": [
           { "type": "image", "src": "/photos/gps-1.jpg" },
           { "type": "image", "src": "/photos/gps-2.jpg" },
-          { "type": "video", "src": "/videos/gps-1.mp4" },
-          { "type": "video", "src": "/videos/gps-2.mp4" },
-          { "type": "video", "src": "/videos/gps-3.mp4" },
-          { "type": "video", "src": "/videos/gps-4.mp4" }
+          { "type": "video", "src": "/videos/gps-1.mp4", "poster": "/videos/gps-1-poster.jpg" },
+          { "type": "video", "src": "/videos/gps-2.mp4", "poster": "/videos/gps-2-poster.jpg" },
+          { "type": "video", "src": "/videos/gps-3.mp4", "poster": "/videos/gps-3-poster.jpg" },
+          { "type": "video", "src": "/videos/gps-4.mp4", "poster": "/videos/gps-4-poster.jpg" }
         ]
       },
       {
@@ -115,8 +115,10 @@
         "period": "2026 (en cours)",
         "degree": "Modélisation 3D avec Onshape – Certificat Onshape Associate (en préparation)",
         "institution": "Onshape",
-        "image": "/photos/onshape-setup.jpg",
-        "video": "/certificates/onshape-demo.mp4"
+        "media": [
+          { "type": "image", "src": "/photos/onshape-setup.jpg" },
+          { "type": "video", "src": "/certificates/onshape-demo.mp4", "poster": "/certificates/onshape-demo-poster.jpg" }
+        ]
       },
       {
         "period": "Octobre 2025 – Aujourd'hui",
@@ -132,7 +134,7 @@
         "period": "2020 (en ligne)",
         "degree": "Certificat Caterpillar – Technicians for Africa",
         "institution": "Caterpillar Global Dealer Learning",
-        "image": "/certificates/caterpillar.png"
+        "media": [{ "type": "image", "src": "/certificates/caterpillar.png" }]
       },
       {
         "period": "2019 – 2020",

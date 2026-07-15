@@ -22,6 +22,7 @@ export default function QrCode({ label }: { label: string }) {
   return (
     <div className="flex flex-col items-center gap-2 rounded-xl border border-neutral-800 bg-neutral-900/40 p-5">
       <canvas ref={canvasRef} className="rounded-md" />
+      <p className="text-center text-sm font-semibold text-neutral-200">Portofolio + CV (Fopa Vidal)</p>
       <p className="text-center text-xs text-neutral-500">{label}</p>
       {url && <p className="max-w-[180px] truncate text-center text-[11px] text-neutral-600">{url}</p>}
     </div>

@@ -1,13 +1,12 @@
 import { useTranslations } from "next-intl";
-import MediaThumb from "./MediaThumb";
+import MediaGallery, { type Media } from "./MediaGallery";
 import Section from "./Section";
 
 type Item = {
   period: string;
   degree: string;
   institution: string;
-  image?: string;
-  video?: string;
+  media?: Media[];
 };
 
 export default function Education() {
@@ -27,15 +26,8 @@ export default function Education() {
             </p>
             <h3 className="mt-1 font-semibold text-neutral-100">{item.degree}</h3>
             <p className="text-sm text-neutral-400">{item.institution}</p>
-            {(item.image || item.video) && (
-              <div className="mt-4 flex flex-wrap gap-3">
-                {item.image && (
-                  <MediaThumb type="image" src={item.image} alt={item.degree} />
-                )}
-                {item.video && (
-                  <MediaThumb type="video" src={item.video} alt={item.degree} />
-                )}
-              </div>
+            {item.media && item.media.length > 0 && (
+              <MediaGallery items={item.media} alt={item.degree} />
             )}
           </div>
         ))}
