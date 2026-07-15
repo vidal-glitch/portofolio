@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# raw phone media dropped directly in public/ (OneDrive sync) — move
+# intentional assets into public/photos or public/certificates instead
+/public/PXL_*
