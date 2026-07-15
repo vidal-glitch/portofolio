@@ -7,6 +7,7 @@ type Item = {
   degree: string;
   institution: string;
   image?: string;
+  video?: string;
 };
 
 export default function Education() {
@@ -20,7 +21,7 @@ export default function Education() {
           <div
             key={i}
             className={`rounded-xl border border-neutral-800 bg-neutral-900/40 p-5 ${
-              item.image ? "sm:col-span-2" : ""
+              item.image || item.video ? "sm:col-span-2" : ""
             }`}
           >
             <p className="text-xs font-medium uppercase tracking-wide text-amber-500">
@@ -34,6 +35,15 @@ export default function Education() {
                 alt={item.degree}
                 width={1188}
                 height={918}
+                className="mt-4 h-auto w-full max-w-xl rounded-lg border border-neutral-800"
+              />
+            )}
+            {item.video && (
+              <video
+                src={item.video}
+                controls
+                playsInline
+                preload="metadata"
                 className="mt-4 h-auto w-full max-w-xl rounded-lg border border-neutral-800"
               />
             )}
